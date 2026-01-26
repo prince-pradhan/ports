@@ -99,7 +99,7 @@ const Profile = ({ mode }) => {
               </div>
               <div style={{ display: "flex", flexDirection: "column", marginTop: "12px" }}>
                 <div style={{ fontSize: "15px", fontWeight: "bold" }}>
-                  Prince Raj Pradhan
+                 Sandhya Khadgi
                 </div>
                 {/* <div style={{ fontSize: "15px", fontWeight: "bold" }}>
                   React Frontend Developer
