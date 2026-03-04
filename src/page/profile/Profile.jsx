@@ -9,7 +9,7 @@ import { IoStatsChartSharp } from "react-icons/io5";
 import { FaEye } from "react-icons/fa";
 import { IoMdContact } from "react-icons/io";
 import { MdOutlineDensitySmall } from "react-icons/md";
-import MyPhoto from "../../assets/MyPhoto2.jpeg";
+import MyPhoto from "../../assets/MyPhoto2.jpg";
 import Cv from "../../assets/Sandhyacv.pdf";
 import "./TypeWriter.css";
 

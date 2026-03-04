@@ -2,7 +2,7 @@ import React, { useState } from "react";
 // import Scene from "../../assets/Scene.jpg";
 import Scene from "../../assets/daycover.jpg";
 import NightScene from "../../assets/nightcover.jpg";
-import MyPhoto from "../../assets/MyPhoto2.jpeg";
+import MyPhoto from "../../assets/MyPhoto2.jpg";
 import { FaLinkedin } from "react-icons/fa";
 import { FaCloudDownloadAlt } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
